@@ -1,0 +1,14 @@
+C:\Users\brandon\ThrowExceptions\bin\Debug\net7.0\ThrowExceptions.exe
+C:\Users\brandon\ThrowExceptions\bin\Debug\net7.0\ThrowExceptions.deps.json
+C:\Users\brandon\ThrowExceptions\bin\Debug\net7.0\ThrowExceptions.runtimeconfig.json
+C:\Users\brandon\ThrowExceptions\bin\Debug\net7.0\ThrowExceptions.dll
+C:\Users\brandon\ThrowExceptions\bin\Debug\net7.0\ThrowExceptions.pdb
+C:\Users\brandon\ThrowExceptions\obj\Debug\net7.0\ThrowExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon\ThrowExceptions\obj\Debug\net7.0\ThrowExceptions.AssemblyInfoInputs.cache
+C:\Users\brandon\ThrowExceptions\obj\Debug\net7.0\ThrowExceptions.AssemblyInfo.cs
+C:\Users\brandon\ThrowExceptions\obj\Debug\net7.0\ThrowExceptions.csproj.CoreCompileInputs.cache
+C:\Users\brandon\ThrowExceptions\obj\Debug\net7.0\ThrowExceptions.dll
+C:\Users\brandon\ThrowExceptions\obj\Debug\net7.0\refint\ThrowExceptions.dll
+C:\Users\brandon\ThrowExceptions\obj\Debug\net7.0\ThrowExceptions.pdb
+C:\Users\brandon\ThrowExceptions\obj\Debug\net7.0\ThrowExceptions.genruntimeconfig.cache
+C:\Users\brandon\ThrowExceptions\obj\Debug\net7.0\ref\ThrowExceptions.dll
